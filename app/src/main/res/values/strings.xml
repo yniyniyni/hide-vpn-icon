@@ -1,0 +1,3 @@
+<resources>
+    <string name="module_description">Hides the VPN status-bar icon in Pixel SystemUI.</string>
+</resources>
